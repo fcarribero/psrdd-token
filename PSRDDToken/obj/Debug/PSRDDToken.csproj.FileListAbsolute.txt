@@ -1,0 +1,5 @@
+c:\users\francisco\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PSRDDToken.exe.config
+c:\users\francisco\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PSRDDToken.exe
+c:\users\francisco\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PSRDDToken.pdb
+c:\users\francisco\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PSRDDToken.exe
+c:\users\francisco\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PSRDDToken.pdb

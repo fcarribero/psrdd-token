@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1e364c0b-8f87-42b6-a882-384e52e2560e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://autenticaciondoctodigitalint.cloudapp.net:444/Autenticacion.svc/wsdl?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="wsdl.xsd" MetadataType="Schema" ID="dffabb32-59a3-4695-9b59-804c7edb69e9" SourceId="1" SourceUrl="https://autenticaciondoctodigitalint.cloudapp.net:444/Autenticacion.svc/wsdl?xsd=xsd1" />
+    <MetadataFile FileName="wsdl1.xsd" MetadataType="Schema" ID="54566591-3504-48f6-99db-49f0b250c577" SourceId="1" SourceUrl="https://autenticaciondoctodigitalint.cloudapp.net:444/Autenticacion.svc/wsdl?xsd=xsd0" />
+    <MetadataFile FileName="Autenticacion.wsdl" MetadataType="Wsdl" ID="27490f7f-c7a4-4ab6-9815-b2fc4549667f" SourceId="1" SourceUrl="https://autenticaciondoctodigitalint.cloudapp.net:444/Autenticacion.svc/wsdl?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
