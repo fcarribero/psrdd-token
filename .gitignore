@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PSRDDToken/bin/Debug/execution.log
+/PSRDDToken/bin/Debug/token.txt
+/PSRDDToken/obj/Debug
